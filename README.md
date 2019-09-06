@@ -35,7 +35,7 @@ This is a collaborative project by : [Daniel Larbi Addo](https://github.com/addo
 
 ## Contributing
 
-1. Fork it (https://github.com/addod19/bubble_sorting_algorithm/fork)
+1. Fork it (https://github.com/maya88en/bubble_sort/fork)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen-name])
