@@ -14,29 +14,29 @@ The project is part of a series of projects to be completed by students of [Micr
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/addod19/bubble_sorting_algorithm.git
+$ git clone https://github.com/maya88en/Bubble-Sort.git
 ```
 
 > cd into the directory
 
 ```sh
-$ cd bubble_sorting_algorithm
+$ cd Bubble-Sort
 ```
-> Open bubble_sort_by_arr.rb with your favourite text editor
+> Open bubble.rb with your favourite text editor
 
 ## Deployment
-This project is actually built on two development branches [bubble_sort_branch](https://github.com/addod19/bubble_sorting_algorithm/tree/bubble_sort_branch) and [bubble_sort_by_branch](https://github.com/addod19/bubble_sorting_algorithm/tree/bubble_sort_by_branch)
+This project is actually built on two development branches [bubble_sort](https://github.com/maya88en/Bubble-Sort/tree/bubble_sort) and [bubble_sort_by](https://github.com/addod19/Bubble-Sort_by/tree/bubble_sort_by)
 
-The demo page can be found [HERE]( https://addod19.github.io/bubble_sorting_algorithm)
+The demo page can be found [HERE]( https://maya88en.github.io/Bubble-Sort)
 
 ## Contributors
 
-This is a collaborative project by : [Daniel Larbi Addo](https://github.com/addod19) and [Maya Alla Eldin](https://github.com/maya88en)
+This is a collaborative project by : [Daniel Larbi Addo](https://github.com/addod19) and [Maya Alaa Eldin](https://github.com/maya88en)
 
 
 ## Contributing
 
-1. Fork it (https://github.com/addod19/bubble_sorting_algorithm/fork)
+1. Fork it (https://github.com/maya88en/Bubble-Sort/fork)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen-name])
